@@ -1,0 +1,130 @@
+# Translations template for jsonschema.
+# Copyright (C) 2015 ORGANIZATION
+# This file is distributed under the same license as the jsonschema project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jsonschema 2.5.0-dev\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-01-06 10:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+#: jsonschema/_format.py:79
+#, python-format
+msgid "%r is not a %r"
+msgstr ""
+
+#: jsonschema/_validators.py:33
+#, python-format
+msgid "Additional properties are not allowed (%s %s unexpected)"
+msgstr ""
+
+#: jsonschema/_validators.py:66
+#, python-format
+msgid "Additional items are not allowed (%s %s unexpected)"
+msgstr ""
+
+#: jsonschema/_validators.py:79
+msgid "less than or equal to"
+msgstr ""
+
+#: jsonschema/_validators.py:82
+msgid "less than"
+msgstr ""
+
+#: jsonschema/_validators.py:86
+#, python-format
+msgid "%r is %s the minimum of %r"
+msgstr ""
+
+#: jsonschema/_validators.py:96
+msgid "greater than or equal to"
+msgstr ""
+
+#: jsonschema/_validators.py:99
+msgid "greater than"
+msgstr ""
+
+#: jsonschema/_validators.py:103
+#, python-format
+msgid "%r is %s the maximum of %r"
+msgstr ""
+
+#: jsonschema/_validators.py:118
+#, python-format
+msgid "%r is not a multiple of %r"
+msgstr ""
+
+#: jsonschema/_validators.py:123 jsonschema/_validators.py:158
+#, python-format
+msgid "%r is too short"
+msgstr ""
+
+#: jsonschema/_validators.py:128 jsonschema/_validators.py:163
+#, python-format
+msgid "%r is too long"
+msgstr ""
+
+#: jsonschema/_validators.py:137
+#, python-format
+msgid "%r has non-unique elements"
+msgstr ""
+
+#: jsonschema/_validators.py:145
+#, python-format
+msgid "%r does not match %r"
+msgstr ""
+
+#: jsonschema/_validators.py:184
+#, python-format
+msgid "%r is a dependency of %r"
+msgstr ""
+
+#: jsonschema/_validators.py:190
+#, python-format
+msgid "%r is not one of %r"
+msgstr ""
+
+#: jsonschema/_validators.py:234 jsonschema/_validators.py:291
+#, python-format
+msgid "%r is a required property"
+msgstr ""
+
+#: jsonschema/_validators.py:250
+#, python-format
+msgid "%r is disallowed for %r"
+msgstr ""
+
+#: jsonschema/_validators.py:297
+#, python-format
+msgid "%r does not have enough properties"
+msgstr ""
+
+#: jsonschema/_validators.py:305
+#, python-format
+msgid "%r has too many properties"
+msgstr ""
+
+#: jsonschema/_validators.py:325 jsonschema/_validators.py:347
+#, python-format
+msgid "%r is not valid under any of the given schemas"
+msgstr ""
+
+#: jsonschema/_validators.py:334
+#, python-format
+msgid "%r is valid under each of %s"
+msgstr ""
+
+#: jsonschema/_validators.py:355
+#, python-format
+msgid "%r is not allowed for %r"
+msgstr ""
+
